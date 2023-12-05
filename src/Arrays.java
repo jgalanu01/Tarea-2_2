@@ -1,5 +1,4 @@
 
-public class Arrays {
 
 	import javax.swing.*; 
 	public class Arrays { 
